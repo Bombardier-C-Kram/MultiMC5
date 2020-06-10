@@ -60,6 +60,9 @@ make -j8 install
 
 You can use IDEs like KDevelop or QtCreator to open the CMake project if you want to work on the code.
 
+### Building on the Raspberry Pi:
+ - Use clang rather then gcc
+
 ### Installing Qt using the installer (optional)
 1. Run the Qt installer.
 2. Choose a place to install Qt.
